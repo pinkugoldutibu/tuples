@@ -1,0 +1,8 @@
+cheeku_tuple = ("P", 6.7 )
+print(cheeku_tuple)
+p_tuple = (6 , 7)
+print(p_tuple)
+p_tuple = p_tuple + (9,)
+print(p_tuple)
+a_tuple = (5, 10, 15, 20, 5 , 10 , 5)
+print(a_tuple.count(5))
